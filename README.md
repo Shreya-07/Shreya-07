@@ -1,7 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/Shreya-07/Shreya-07/blob/3ce98d15f077323f4ff329c75d33efe826b6daa3/IMG_0674.GIF" width="200"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/shreya-nimbhorkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="shreya.nimbhorkar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Shreya Nimbhorkar</h1>
 <h3 align="center">Software Engineer and an aspiring cybersecurity Engineer</h3>
-<img align="right" alt="coding" width="260" height="250" src="IMG_0674.GIF">
 
 - 🌱 I’m currently learning **Security Frameworks**
 
@@ -10,6 +20,8 @@
 - 🤝 I’m looking for help with **full-time Opportunities**
 
 - 📫 How to reach me **shreya.nimbhorkar@gmail.com**
+
+- My resume highlights my technical skills and experience. To go to my resume - <a href="Shreya_Grad_Resume.pdf" target="_blank">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
