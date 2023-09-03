@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shreya Nimbhorkar</h1>
 <h3 align="center">Software Engineer and an aspiring cybersecurity Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/bjlac-gif-26813437">
+<img align="right" alt="coding" width="260" height="250" src="IMG_0674.GIF">
 
 - 🌱 I’m currently learning **Security Frameworks**
 
