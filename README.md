@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shreya.nimbhorkar@gmail.com**
 
-- My resume highlights my technical skills and experience. To go to my resume - <a href="Shreya_Grad_Resume.pdf" target="_blank">Click Here</a>
+- My resume highlights my technical skills and experience. To go to my resume - <a href="https://github.com/Shreya-07/Shreya_Resume/blob/b58406fc13d84defa818cc5d672767e62dcb4056/Shreya_Grad_Resume.pdf" target="_blank">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
